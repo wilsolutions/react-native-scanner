@@ -12,7 +12,7 @@
   "dependencies": {
     "@pushpendersingh/react-native-scanner": "^1.0.1",
     "react": "18.2.0",
-    "react-native": "0.71.4",
+    "react-native": "0.73.0",
     "react-native-permissions": "^3.7.3"
   },
   "devDependencies": {
